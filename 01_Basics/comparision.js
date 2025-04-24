@@ -14,6 +14,11 @@ console.log(undefined>0);  //f
 console.log(undefined==0);  //f
 console.log(undefined<0);   //f
 console.log(undefined>=0);  //f
+ //cAN DECLARE also
+ let a,b,c;
+ a=b=c=4;
+ console.table([a,b,c]);
 
+  
 //strict check
 console.log("2"===2); //f
