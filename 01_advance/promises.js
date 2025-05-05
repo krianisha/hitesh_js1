@@ -102,3 +102,4 @@ fetch('https://api.github.com/users/hiteshchoudhary')
 
 // promise.all
 // yes this is also available, kuch reading aap b kro.
+//agr promise se 404 error aya to resolve hoga ya reject anser is resolve jb vi khuch bi promise bheja wo promise me jayega reject mtlb promise khuch bhej hi ni paya even error
